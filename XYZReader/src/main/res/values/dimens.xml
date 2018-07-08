@@ -23,5 +23,6 @@
     <dimen name="rv_padding_bottom">28dp</dimen>
     <dimen name="toolbar_container_layout_height">112dp</dimen>
     <dimen name="icon_layout_width">56dp</dimen>
+    <dimen name="photo_layout_height">250dp</dimen>
 
 </resources>
