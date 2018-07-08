@@ -17,5 +17,11 @@
     <dimen name="cardview_elevation">5dp</dimen>
     <dimen name="fab_size">56dp</dimen>
     <dimen name="padding_16dp">16dp</dimen>
+    <dimen name="elevation_4dp">4dp</dimen>
+    <dimen name="list_padding_top">116dp</dimen>
+    <dimen name="toolbar_container_elevation">8dp</dimen>
+    <dimen name="rv_padding_bottom">28dp</dimen>
+    <dimen name="toolbar_container_layout_height">112dp</dimen>
+    <dimen name="icon_layout_width">56dp</dimen>
 
 </resources>
