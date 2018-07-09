@@ -6,7 +6,7 @@
     <dimen name="article_title_text_size">16sp</dimen>
     <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
 
-    <dimen name="fab_elevation">2dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
     <dimen name="image_detail_layout_width">56dp</dimen>
@@ -14,7 +14,7 @@
     <dimen name="article_title_padding_bottom">4dp</dimen>
     <dimen name="cardview_margin_4dp">4dp</dimen>
     <dimen name="cardview_radius">3dp</dimen>
-    <dimen name="cardview_elevation">5dp</dimen>
+    <dimen name="cardview_elevation">6dp</dimen>
     <dimen name="fab_size">56dp</dimen>
     <dimen name="padding_16dp">16dp</dimen>
     <dimen name="elevation_4dp">4dp</dimen>
